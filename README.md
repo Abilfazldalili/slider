@@ -5,5 +5,5 @@
 - Role - Frontend
 - How to reach me : with my [instagram](https://www.instagram.com/abolfazl_dalili2023)
 html,css,bootsrap,javascript
-![Alt text](https://github.com/C:\Users\lenovo\Desktop\slider\Images)
+![Alt text](https://C:\Users\lenovo\Desktop\slider\Images)
 
