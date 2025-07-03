@@ -5,5 +5,5 @@
 - Role - Frontend
 - How to reach me : with my [instagram](https://www.instagram.com/abolfazl_dalili2023)
 html,css,bootsrap,javascript
-![Alt text](https://github.com/user-attachments/assets/7e13ac9b-1a83-4dbe-b224-a1abffc12fdd)
+![Alt text](https://github.com/Abilfazldalili/slider/Images/slider.png)
 
